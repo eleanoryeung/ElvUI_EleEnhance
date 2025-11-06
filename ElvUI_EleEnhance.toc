@@ -1,0 +1,17 @@
+## Interface: 110205
+## Title: |cff1784d1ElvUI|r |cffffb6c1Eleanor's Enhancements|r
+## Author: Eleanor
+## Version: 0.4.0
+## Notes: Plugin-edit for |cff1784d1ElvUI|r adding additional features.
+## DefaultState: Enabled
+## Dependencies: ElvUI
+## Group: ElvUI
+## DefaultState: Enabled
+## X-ElvVersion: 13.72
+
+libs/LibAdvFlight-1.0/lib.xml
+
+core\load_core.xml
+modules\load_modules.xml
+options\load_options.xml
+locales\load_locales.xml

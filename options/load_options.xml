@@ -1,0 +1,7 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file='core_c.lua'/>
+	<Script file='chat_c.lua'/>
+	<Script file='misc_c.lua'/>
+	<Script file='datatext_c.lua'/>
+	<Script file='interface_c.lua'/>
+</Ui>

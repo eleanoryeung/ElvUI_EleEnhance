@@ -1,0 +1,6 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file='friendlyname.lua'/>
+	<Script file='LFGlist.lua'/>
+	<Script file='newsfix.lua'/>
+	<Script file='stealthoverlay.lua'/>
+</Ui>

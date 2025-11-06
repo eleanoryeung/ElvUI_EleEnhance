@@ -1,0 +1,5 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file='riderbar.lua'/>
+	<Script file='minimap.lua'/>
+	<Script file='bagbar.lua'/>
+</Ui>

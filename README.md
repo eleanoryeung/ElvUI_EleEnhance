@@ -1,2 +1,5 @@
-# ElvUI_EleEnhance
+# ElvUI-Eleanor's Enhancements
 Plugin-edit for ElvUI
+
+由于玻璃渣杀死了插件，将自用的ElvUI扩展在此存档
+还没决定下版本玩不玩，玩的话可能会搞一个独立插件
